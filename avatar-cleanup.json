@@ -1,0 +1,6 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Edit the supplied avatar with one tiny targeted change: remove the entire visible background cable and its connector curving behind the head (the arc on the viewer's left, character's right). Fill only the cable area with the same dark teal charcoal background and subtle analog grain, seamlessly matching the neighboring background. Leave the background free of any cables on either side of the head. Preserve the male character's face, expression, eyes, hairstyle, silhouette, hoodie, drawstrings, skin, pose, green CRT lighting, palette, composition, circular distressed border, black corners, dimensions and all other details exactly unchanged. Do not redraw or beautify the character. No new objects, no text, no watermark.",
+  "output": "assets/avatar.png",
+  "uploadFile": "assets/avatar.jpg"
+}
