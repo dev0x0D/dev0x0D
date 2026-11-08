@@ -1,0 +1,32 @@
+{
+  "name": "Wired / after hours",
+  "mode": "built-in image_gen",
+  "palette": {
+    "charcoal": "#101918",
+    "olive": "#747b61",
+    "phosphor": "#98c997"
+  },
+  "bio": "After hours, still connected. Building tools for music, movement & everyday life. C++ / Qt · TypeScript / React · Linux.",
+  "pins": [
+    "riffer",
+    "fit"
+  ],
+  "recommendedTheme": "Dark dimmed",
+  "prompts": {
+    "avatar": "Use case: stylized-concept.\nAsset type: original GitHub profile avatar, square 1024x1024.\nInput image: mood and palette reference only, not an edit target.\nCreate a compelling original late-1990s hand-painted anime cel portrait of a quiet androgynous young adult programmer with short uneven dark brown hair, wearing a muted olive hoodie, face illuminated from below by phosphor-green CRT light. Tight head and shoulders three-quarter portrait, eyes towards viewer, reserved thoughtful expression. Single pale green small rectangular hair clip, distinctive silhouette. Background almost black teal with just one cable arc and a faint CRT halo. Analog film grain, ink outlines, restrained cel shading, worn printed texture. Muted charcoal #101918, olive gray #747b61, phosphor #98c997, pale warm skin. Beautiful and understated, uncanny late-night solitude, not aggressive. Face and hair occupy central 65 percent, legible at 48px and inside a circular crop. No text, no logos, no watermark, no neon magenta, no glossy 3D, no detailed background.",
+    "banner": "Use case: stylized-concept.\nAsset type: original wide GitHub profile illustrated banner, 3:1 landscape composition.\nInput image: style and mood reference only.\nCreate an original late-1990s hand-drawn anime background painting: a quiet programmer's room after midnight, battered olive beige CRT on the right glowing pale phosphor green, large looping black cables, old keyboard and audio cassette, rain-dark window revealing a few distant apartment lights. On the far right edge a young adult androgynous programmer with short dark brown hair and olive hoodie seen from behind, small in composition. Left 45 percent is dark uncluttered charcoal wall with soft screen reflections and cable shadows, intentional calm negative space. CRT screen shows a tiny simple green cursor, no legible words. Cinematic low perspective across the desk, lovingly drawn old hardware, cel shadows, analog film grain, slightly distressed printed texture. Palette charcoal #101918, desaturated olive #747b61, phosphor #98c997 and tiny icy cyan highlights. Atmosphere intimate, thoughtful, solitary, connected. Wide cohesive art, no panel divisions, no borders, no typography, no watermark, no bright purple or pink, no glossy modern cyberpunk, no copied composition.",
+    "typography": "Edit target: the attached wide 3:1 illustrated banner. Preserve all existing artwork, composition, colors, dimensions, texture, character and right-hand room exactly. Only add tasteful integrated typography to the empty left third of the image, aligned left at roughly 7% from left edge, centered vertically. Main large text verbatim \"dev0x0D\" in elegant readable phosphor-green monospaced terminal lettering, subtle CRT bloom. Small spaced uppercase text above it verbatim \"PERSONAL TERMINAL / 0x0D\". Small muted pale sage text below it on two lines verbatim \"AFTER HOURS.\" and \"STILL CONNECTED.\" Typography should be clear but restrained, comfortable padding, all text fully in the left 42 percent, no panels, no logos, no other changes."
+  },
+  "references": [
+    "https://docs.github.com/en/account-and-profile/concepts/personal-profile",
+    "https://docs.github.com/en/account-and-profile/tutorials/personalize-your-profile",
+    "https://docs.github.com/en/account-and-profile/how-tos/profile-customization/pinning-items-to-your-profile",
+    "https://github.com/x0rzavi/github-readme-terminal"
+  ],
+  "manualSetup": {
+    "avatar": "https://github.com/settings/profile — Profile picture > Edit > Upload a photo > assets/avatar.jpg",
+    "bio": "https://github.com/settings/profile — paste bio, Update profile. Current CLI token lacks user scope.",
+    "pins": "https://github.com/dev0x0D — Customize your pins > riffer, fit > Save pins",
+    "appearance": "https://github.com/settings/appearance — Dark dimmed. This preference affects your own GitHub view only."
+  }
+}
