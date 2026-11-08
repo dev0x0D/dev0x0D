@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="assets/after-hours-cover.png" width="100%" alt="dev0x0D — After hours. Still connected. An old CRT glows in a quiet room overlooking a rain-soaked city.">
-
-
+<img src="assets/after-hours-cover.png" width="2172" height="724" alt="dev0x0D — After hours. Still connected. An old CRT glows in a quiet room overlooking a rain-soaked city.">
 
 <samp>Small tools. Personal rhythms. A little less friction.</samp>
 
