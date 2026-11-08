@@ -1,0 +1,6 @@
+{
+  "mode": "built-in image_gen",
+  "prompt": "Use case: precise-object-edit. Edit target: supplied existing GitHub avatar. Change the character into a clearly male young adult man, around 25, with a slightly broader angular jaw, stronger straight eyebrows, narrower eyes, masculine nose and slightly broader neck and shoulders. Short tousled dark brown hair with a natural fringe, remove the hair clip and remove the long side lock. Clean shaven, calm introspective expression, not angry or macho. Preserve the same three-quarter head and shoulders composition, olive hoodie, phosphor green light from below, charcoal teal cable background, limited muted olive palette, late-1990s hand-drawn anime cel style, analog grain and worn print texture. Keep the face centered and legible within a circular avatar crop. Keep everything else as close as possible to the original. No text, no logos, no watermark.",
+  "output": "assets/avatar.png",
+  "uploadFile": "assets/avatar.jpg"
+}
