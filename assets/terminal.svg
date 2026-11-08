@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1376" height="270" viewBox="0 0 1376 270" role="img" aria-labelledby="title desc">
+  <title id="title">dev0x0D</title>
+  <desc id="desc">A dark green terminal with the message connection established.</desc>
+  <defs>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse"><path d="M0 1h4" stroke="#000" stroke-opacity=".17"/></pattern>
+    <radialGradient id="screen"><stop stop-color="#182c24"/><stop offset="1" stop-color="#0c1614"/></radialGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%"><feGaussianBlur stdDeviation="2"/></filter>
+  </defs>
+  <rect width="1376" height="270" rx="8" fill="url(#screen)"/>
+  <rect x="20" y="20" width="1336" height="230" rx="4" fill="none" stroke="#496151"/>
+  <path d="M40 48h1296" stroke="#4c7958"/>
+  <g font-family="'Courier New',monospace" fill="#8fdc94">
+    <text x="42" y="40" font-size="14" letter-spacing="2">WIRED / PERSONAL TERMINAL</text>
+    <text x="1334" y="40" text-anchor="end" font-size="14">SESSION 0x0D</text>
+    <text x="58" y="143" font-size="72" filter="url(#glow)" opacity=".45">dev0x0D</text>
+    <text x="58" y="143" font-size="72">dev0x0D<tspan fill="#afd6ad">_</tspan></text>
+    <text x="62" y="185" font-size="18" letter-spacing="3" fill="#a1b7a5">CONNECTION ESTABLISHED</text>
+    <text x="62" y="221" font-size="14" fill="#738c7c">C++ / TYPESCRIPT / LINUX</text>
+    <g fill="#64806d" font-size="14" text-anchor="end"><text x="1314" y="185">PROTOCOL: SSH</text><text x="1314" y="221">github.com/dev0x0D</text></g>
+  </g>
+  <rect width="1376" height="270" rx="8" fill="url(#scan)"/>
+</svg>
